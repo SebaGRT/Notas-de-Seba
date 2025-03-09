@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bienvenidos a las Notas de Sebastián
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Aquí encontrarás todas las notas que he tomado durante mi carrera universitaria.
