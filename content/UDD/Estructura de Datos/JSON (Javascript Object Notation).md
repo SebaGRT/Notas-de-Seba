@@ -1,4 +1,6 @@
-	JSON, o Javascript Object Notation, es un formato de texto que es independiente del lenguaje Javascript, este utiliza convenciones que son conocidos por los programadores de la familia de lenguajes C.
+	JSON, o Javascript Object Notation, es un formato de texto que es 
+	independiente del lenguaje Javascript, este utiliza convenciones que son 
+	conocidos por los programadores de la familia de lenguajes C.
 
 **Ex.**
 
