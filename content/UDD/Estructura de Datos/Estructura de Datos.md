@@ -1,5 +1,0 @@
-- **[[Dato]]**
-- **[[Memoria RAM (Random Access Memory)]]**
-- **[[Primitiva]]**
-- **[[Tipos de Datos Abstractos (TDA)]]**
-- **[[Variables por valor o referencia]]**
