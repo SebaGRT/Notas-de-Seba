@@ -7,4 +7,5 @@ Aquí encontrarás todas las notas que he tomado durante mi carrera universitari
 
 **Directorio con mis notas:**
 
-[[Estructura de Datos]]
+- [[Estructura de Datos]]
+- [[Álgebra Lineal]]
