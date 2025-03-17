@@ -16,5 +16,6 @@ $$
 	matriz, y el mismo número de columnas que la 2da matriz.
 
 $$
-\begin{pmatrix}a & b & c\\d & e & f\end{pmatrix}_{2x3}\ \cdot \begin{pmatrix}g&h\\i&j\\k&l\end{pmatrix}_{3x2}\ =\ \begin{pmatrix}a\cdot g+b\cdot i+c\cdot k & a\cdot h+b\cdot j+c\cdot k\\d\cdot g+e\cdot i+f\cdot k & f\cdot h+e\cdot j+f\cdot l \end{pmatrix}_{2x2}$$
+\begin{pmatrix}a & b & c\\d & e & f\end{pmatrix}_{2x3}\ \cdot \begin{pmatrix}g&h\\i&j\\k&l\end{pmatrix}_{3x2}\ =\ \begin{pmatrix}a\cdot g+b\cdot i+c\cdot k & a\cdot h+b\cdot j+c\cdot k\\d\cdot g+e\cdot i+f\cdot k & f\cdot h+e\cdot j+f\cdot l \end{pmatrix}_{2x2}
+$$
 
