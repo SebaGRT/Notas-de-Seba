@@ -1,4 +1,4 @@
-	Es una matriz con igual cantidad de tanto filas como columnas
+Es una matriz con igual cantidad de tanto filas como columnas
 
 $$
 \begin{pmatrix}
